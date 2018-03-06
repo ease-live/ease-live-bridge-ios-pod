@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
 
   s.ios.vendored_frameworks = 'EaseLiveSDK.framework'
 
-  s.source       = { :http => "https://sixty.bintray.com/cocoapods/EaseLiveiOSSDK.zip" }
+  s.source       = { :http => "https://sixty.bintray.com/cocoapods/ease-live-bridge-ios/1.0.22/EaseLiveiOSSDK-1.0.22.zip" }
   s.license      = {:type => 'custom', :file => 'LICENSE' }
 
 end
