@@ -8,5 +8,5 @@ to install this pod is necessary to:
   - add the source ```https://github.com/sixtyno/ease-live-bridge-ios-pod.git```
   - add the statement ```pod 'EaseLiveSDK'```, you can also specify which version adding ```, '~> 1.0.22'``` as a parameter
   - run ```pod repo update```
-  - run ```pod install```
+  - run ```pod install```
 4. open the .xcworkspace file
